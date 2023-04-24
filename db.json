@@ -1,6 +1,5 @@
 {
-    "albums": 
-            [
+    "albums": [
                 {
                 "id" : 1,
                 "albumName": "Bastard",
@@ -160,7 +159,8 @@
                 }
             ],
    
-"concerts": [
+
+    "concerts": [
        
         {
             "id": 1, 
