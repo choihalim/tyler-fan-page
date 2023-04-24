@@ -157,203 +157,203 @@
        
                 {
                     "id": 1, 
-                    "cityState": "Minneapolis, MN",
+                    "location": "Minneapolis, MN",
                     "venue": "The Armory ",
                     "date": "September 2, 2023"
                 },
                 {
                     "id": 2, 
-                    "cityState": "Chicago, IL",
+                    "location": "Chicago, IL",
                     "venue": "Credit Union 1 Arena at UIC",
                     "date": "September 4, 2023"
                 },
                 {
                     "id": 3, 
-                    "cityState": "Toronto, ONT",
+                    "location": "Toronto, ONT",
                     "venue": "Scotiabank Arena",
                     "date": "September 6, 2023"
                 },
                 {
                     "id": 4, 
-                    "cityState": "Detroit, MI",
+                    "location": "Detroit, MI",
                     "venue": "Masonic Temnple Theatre",
                     "date": "September 7, 2023"
                 },
                 {
                     "id": 5, 
-                    "cityState": "Boston, MA",
+                    "location": "Boston, MA",
                     "venue": "Agganis Arena",
                     "date": "September 10, 2023"
                 },
                 {
                     "id": 6, 
-                    "cityState": "Laval, QC",
+                    "location": "Laval, QC",
                     "venue": "Place Bell",
                     "date": "September 11, 2023"
                 },
                 {
                     "id": 7, 
-                    "cityState": "New York, NY",
+                    "location": "New York, NY",
                     "venue": "Madison Square Garden",
                     "date": "September 12, 2023"
                 },
                 
                 {
                     "id": 8, 
-                    "cityState": "London, UK",
+                    "location": "London, UK",
                     "venue": "O2 Brixton",
                     "date": "September 16, 2023"
                 },
                 {
                     "id": 9, 
-                    "cityState": "London, UK",
+                    "location": "London, UK",
                     "venue": "O2 Brixton",
                     "date": "September 17, 2023"
                 },
                 {
                     "id": 10, 
-                    "cityState": "London, UK",
+                    "location": "London, UK",
                     "venue": "O2 Brixton",
                     "date": "September 18, 2023"
                 },
                 {
                     "id": 11, 
-                    "cityState": "Columbia, MD",
+                    "location": "Columbia, MD",
                     "venue": "Merriweather Post Pavilion",
                     "date": "September 21, 2023"
                 },
                 {
                     "id": 12, 
-                    "cityState": "Columbus, OH",
+                    "location": "Columbus, OH",
                     "venue": "EXPRESS LIVE! Outdoor",
                     "date": "September 22, 2023"
                 },
                 {
                     "id": 13, 
-                    "cityState": "Pittsburgh, PA",
+                    "location": "Pittsburgh, PA",
                     "venue": "Stage AE Outdoors",
                     "date": "September 24, 2023"
                 },
                 {
                     "id": 14, 
-                    "cityState": "Philadelphia, PA",
+                    "location": "Philadelphia, PA",
                     "venue": "Skyline Stage at the Mann",
                     "date": "September 25, 2023"
                 },
                 {
                     "id": 15, 
-                    "cityState": "Orlando, FL",
+                    "location": "Orlando, FL",
                     "venue": "Addition Financial Arena",
                     "date": "September 27, 2023"
                 },
 
                 {
                     "id": 16, 
-                    "cityState": "Tampa, FL",
+                    "location": "Tampa, FL",
                     "venue": "Yuengling Center",
                     "date": "September 28, 2023"
                 },
                 {
                     "id": 17, 
-                    "cityState": "Miami, FL",
+                    "location": "Miami, FL",
                     "venue": "AmericanAirlines Arena",
                     "date": "September 29, 2023"
                 },
                 {
                     "id": 18, 
-                    "cityState": "Greensboro, NC",
+                    "location": "Greensboro, NC",
                     "venue": "Greensboro Colisum Special Events Center",
                     "date": "October 1, 2023"
                 },
                 
                 {
                     "id": 19, 
-                    "cityState": "Atlanta, GA",
+                    "location": "Atlanta, GA",
                     "venue": "State Farm Arena",
                     "date": "October 3, 2023"
                 }, 
                 {
                     "id": 20, 
-                    "cityState": "St. Louis, MO",
+                    "location": "St. Louis, MO",
                     "venue": "Chaifetz Arena",
                     "date": "October 4, 2023"
                 },
                 {
                     "id": 21, 
-                    "cityState": "Kansas City, MO",
+                    "location": "Kansas City, MO",
                     "venue": "Silverstein Eye Centers Arena",
                     "date": "October 5, 2023"
                 },
                 {
                     "id": 22, 
-                    "cityState": "Morrison, CO",
+                    "location": "Morrison, CO",
                     "venue": "Red Rocks Amphitheatre",
                     "date": "October 7, 2023"
                 },
                 {
                     "id": 23, 
-                    "cityState": "Salt Lake City, UT",
+                    "location": "Salt Lake City, UT",
                     "venue": "Great Saltair",
                     "date": "October 8, 2023"
                 },
                 {
                     "id": 24, 
-                    "cityState": "San Francisco, CA",
+                    "location": "San Francisco, CA",
                     "venue": "Bill Graham Civic Auditorium",
                     "date": "October 10, 2023"
                 },
                 {
                     "id": 25, 
-                    "cityState": "Fresno, CA",
+                    "location": "Fresno, CA",
                     "venue": "Selland Arena",
                     "date": "October 12, 2023"
                 }, 
                 {
                     "id": 26, 
-                    "cityState": "Portland, OR",
+                    "location": "Portland, OR",
                     "venue": "Veterans Memorial Coliseum",
                     "date": "October 14, 2023"
                 }, 
                 {
                     "id": 27, 
-                    "cityState": "Vancouver, BC",
+                    "location": "Vancouver, BC",
                     "venue": "Pacific Coliseum",
                     "date": "October 15, 2023"
                 }, 
                 {
                     "id": 28, 
-                    "cityState": "Reno, NV",
+                    "location": "Reno, NV",
                     "venue": "Reno Events Center",
                     "date": "October 17, 2023"
                 }, 
                 {
                     "id": 29, 
-                    "cityState": "San Diego, CA",
+                    "location": "San Diego, CA",
                     "venue": "Pechanga Arena",
                     "date": "October 19, 2023"
                 }, 
                 {
                     "id": 30, 
-                    "cityState": "Glendale, AZ",
+                    "location": "Glendale, AZ",
                     "venue": "Gila River Arena",
                     "date": "October, 20, 2023"
                 }, 
                 {
                     "id": 31, 
-                    "cityState": "Austin, TX",
+                    "location": "Austin, TX",
                     "venue": "Frank Erwin Center",
                     "date": "October 22, 2023"
                 }, 
                 {
                     "id": 32, 
-                    "cityState": "Dallas, TX",
+                    "location": "Dallas, TX",
                     "venue": "Theatre at Grand Prairie",
                     "date": "October 23, 2023"
                 },
                 
                 {
                     "id": 33, 
-                    "cityState": "Houston, TX",
+                    "location": "Houston, TX",
                     "venue": "NRG Stadium",
                     "date": "October 26, 2023"
                 }   
