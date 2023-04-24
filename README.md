@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+Phase 2 Project Outline
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Group 4 (Clover)
 
-## Available Scripts
+Contributors: Sarah Baughman, Halim Choi, Andrew O’Brien, Ryan Rojas 
 
-In the project directory, you can run:
+Need a db.json AND an API
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Notes: 
+create-react-app phase-2-project
+Replace phase-2-project with your app name 
+Push this up to github 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Phase 2 Project - Tyler the Creator Fan Page 
 
-### `npm test`
+Group 4 (Clover)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contributors: Sarah Baughman, Halim Choi, Andrew O’Brien, Ryan Rojas
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+USER STORY
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+As a user I can: 
+View basic information about Tyler the Creator
+Use the sidebar to navigate to a discography page and tour schedule page
+View the artist’s full discography sorted by album
+Search the simulated tour schedule by city and state to see when the artist will be visiting a nearby venue
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Stretch Goals
+Add favorite songs from the discography page to a favorites list 
+Search through songs on the discography page
+Provide links to individual tracks (sound or youtube link)
+Age restriction filter
 
-### `npm run eject`
+API INFO
+Using an external API to fetch our album data (album title, release year, genre, album art) 
+db.json with concert time, date and location 
+db.json with Tyler the Creator track info
+	   
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+COMPONENT HIERARCHY 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+App 
+    -Header
+        -NavBar
+    -PageContainer
+        -Home
+        -Discography
+            ~AlbumCard
+                ~SongCard (stretch goal) 
+        -TourSchedule (search bar)
+            ~TourCard
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
