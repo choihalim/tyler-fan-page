@@ -11,9 +11,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Header />
-        <p>this is our tyler page</p>
-        <PageContainer />
       </header>
+      <PageContainer />
     </div>
   );
 }
