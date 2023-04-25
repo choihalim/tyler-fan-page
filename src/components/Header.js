@@ -4,15 +4,15 @@ import NavBar from './NavBar'
 
 
 function Header() {
- 
+
     return (
         <div>
-            <img src = "https://www.theaudiodb.com/images/media/artist/banner/ruxxst1500733634.jpg" /> <br />
-            
+            <img src="https://www.theaudiodb.com/images/media/artist/banner/ruxxst1500733634.jpg" alt='Tyler Banner' /> <br />
+
             <NavBar />
 
-         </div>
-  );
+        </div>
+    );
 }
 
 export default Header;

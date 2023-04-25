@@ -23,6 +23,8 @@ function TourSchedule() {
 
   return (
     <>
+      <br />
+      <input type='text' placeholder='Search for a venue...'></input>
       {concertList}
     </>
   );
