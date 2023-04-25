@@ -16,7 +16,7 @@ function AlbumCard({ album, thumbnail, year, description, songs }) {
           <h3>{year}</h3>
           <p>{description}</p>
           <ul>
-            {songs.map(song => <li>{song}</li>)}
+            {songs.map((song, index) => <li key={index}>{song}</li>)}
           </ul>
         </Figure.Caption>
 

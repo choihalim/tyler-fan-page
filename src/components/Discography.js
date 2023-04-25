@@ -28,6 +28,7 @@ function Discography() {
   const albumSongList = albumSongs.map(song => {
     return song.albumTracks
   })
+  console.log(albumSongList)
 
   const cardElements = albums.map((album, index) =>
     <AlbumCard
