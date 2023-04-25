@@ -7,7 +7,7 @@ function Header() {
  
     return (
         <div>
-            <img src = "https://www.theaudiodb.com/images/media/artist/banner/ruxxst1500733634.jpg"></img>
+            <img src = "https://www.theaudiodb.com/images/media/artist/banner/ruxxst1500733634.jpg" /> <br />
             
             <NavBar />
 
