@@ -1,11 +1,17 @@
 import React from 'react';
 import NavBar from './NavBar'
 
+
+
 function Header() {
-  return (
-   <NavBar />
-   //logo or banner 
-   //title of the page 
+ 
+    return (
+        <div>
+            <img src = "https://www.theaudiodb.com/images/media/artist/banner/ruxxst1500733634.jpg"></img>
+            
+            <NavBar />
+
+         </div>
   );
 }
 
