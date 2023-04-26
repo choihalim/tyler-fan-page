@@ -5,7 +5,7 @@ function AlbumInfo({ albumSongs }) {
     return (
         <>
             <ul>
-                {albumSongs.map((song, index) => <li key={index}>{song} <button>♥</button></li>)}
+                {albumSongs.map((song, index) => <li key={index}>{song} <i class="fa-regular fa-heart" style={{color: "#000000"}}></i></li>)}
                 
             </ul>
         </>
@@ -13,3 +13,5 @@ function AlbumInfo({ albumSongs }) {
 }
 
 export default AlbumInfo;
+
+//<i class="fa-solid fa-heart" style={{color: "#000000"}}
