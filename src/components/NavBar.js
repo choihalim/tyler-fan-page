@@ -40,7 +40,7 @@ function NavBar() {
       </NavLink>
 
       <NavLink
-        to="/favorites"
+        to="/favorites" className='nav-buttons'
         exact
         style={linkStyles}
         activeStyle={{ background: "brown" }}
