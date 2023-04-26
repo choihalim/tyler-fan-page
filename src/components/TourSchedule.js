@@ -42,7 +42,9 @@ function TourSchedule() {
       >
       </input>
       <br /><br />
-      {concertList}
+      <div className='concerts-container'>
+        {concertList}
+      </div>
     </>
   );
 }
