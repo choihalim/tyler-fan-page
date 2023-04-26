@@ -17,17 +17,17 @@ function Home() {
           At the early age of 7 he found the second love of his life and the one thing that would keep him going over the years, music. 
           This led him to start taking CDs from his mom's collection and replace the album art with his own that he had drawn, which funnily enough would become a passion of his later in life. 
           Falling in love with rap at an early age, he listened to big names like: Q-Tip, André 3000, Chad Hugo, Kanye West, Missy Elliot, Busta Rhymes and Hype Williams. 
-          This set him on a course to becoming one of the most debatibly influencial rappers of the 2010s. 
-          His love for music depened at the age of 12 as his grandmother deemed him old enough to listen to more 'mature' music introducing him to artists like: Blackeyed Peas, Outkast, Biggie Smalls and Eminem to name a few. 
-          For the next two years Tyler would beg his mother and grandmother for keyboard so he could start learning to play and wirte music. 
+          This set him on a course to becoming one of the most debatably influential rappers of the 2010s. 
+          His love for music deepened at the age of 12 as his grandmother deemed him old enough to listen to more 'mature' music introducing him to artists like: Blackeyed Peas, Outkast, Biggie Smalls and Eminem to name a few. 
+          For the next two years Tyler would beg his mother and grandmother for keyboard so he could start learning to play and write music. 
           He did not spend those two years sitting by idly however and this is where the story of Tyler the Creator actually starts; 
           for at 12 he made his first MySpace page dubbed Ace The Creator where he delved deep into the world of creating playlists. 
-          At 14 years old he would finally be gifted his precious keyboard, which he then proceeded take to his room, lock the door, and spend the entire summer trying to teach himself to read, write and play music, unsucessfully so. 
+          At 14 years old he would finally be gifted his precious keyboard, which he then proceeded take to his room, lock the door, and spend the entire summer trying to teach himself to read, write and play music, unsuccessfully so. 
           It would take him several years and many friends to finally be at a point where he could read and write music, this is where his first group Odd Future would come in. 
           The year was 2007 and the most ragtag and uncouth bunch of misfits finally got together along with Tyler and founded the Odd Future collective. 
-          It was a bunch of young, crazy, abrasive and talented individuals that felt like they had no place in society, so they decided to make one and in November of 2008 they dropped thier first album called: The Odd Future Tape (very creative, we know). 
+          It was a bunch of young, crazy, abrasive and talented individuals that felt like they had no place in society, so they decided to make one and in November of 2008 they dropped their first album called: The Odd Future Tape (very creative, we know). 
           Following the zealous hype with which it was accepted Tyler decided to drop his first  complete mixtape on Christmas day in 2009 called "Bastard" (album art here). 
-          It was a well recieved shit show with criticism ranging from "Best mixtape of the Year" to "Obnoxious and revolting but hypnotic, its something that you can't stop listening to". 
+          It was a well received shit show with criticism ranging from "Best mixtape of the Year" to "Obnoxious and revolting but hypnotic, its something that you can't stop listening to". 
           After a brief spell Tyler dropped his single Yonkers (link to music video here), which for a brief moment broke the internet, also landing him the Best New Artist award at the  2011 MTV Video Music Awards, also funnily enough catching the eye of Waka Flocka Flame. 
           In early 2011, Okonma was gaining the interest of a number of figures in the music industry, including Steve Rifkind, Jimmy Iovine, Rick Ross and Jay-Z. 
           Okonma and the rest of Odd Future eventually signed a deal with Red Distribution/Sony in April 2011. 
@@ -36,10 +36,10 @@ function Home() {
           It was everything from serious family issues to the classic over the top and crazy skits that MTV used to be known for. Wolf (album art here) was released on April 2, 2013, by Odd Future Records and RED Distribution under Sony Music Entertainment. 
           It featured guest appearances by Frank Ocean, Mike G, Domo Genesis, Earl Sweatshirt, Left Brain, Hodgy Beats, Pharrell, Casey Veggies and Erykah Badu. 
           On August 26, 2015, Okonma revealed that he had been banned from visiting the United Kingdom for three to five years, which forced him to cancel a string of tour dates supporting the Cherry Bomb album which had dropped digitally on April 13 earlier that year. 
-          The reson for the ban was because of his lyrics in his earlier album Bastard from back in 2009 (that was totally understandable). 
+          The reason for the ban was because of his lyrics in his earlier album Bastard from back in 2009 (that was totally understandable). 
           On April 16th 2017, it was announced Okonma would write, produce, and perform the theme song for scientist Bill Nye's new show, Bill Nye Saves the World. (link to song here). 
           On July 6, 2017, he announced the title, tracklist and release date of his fourth album, Flower Boy, which was released on July 21, 2017. (album art here). 
-          This changed everything for Tyler as it was such a huge success and so well recieved by crtics that it got him his second Grammy nomination. 
+          This changed everything for Tyler as it was such a huge success and so well received by critics that it got him his second Grammy nomination. 
           This success pushed Okonma to announce his fifth album Igor (album art here) on May 6, 2019 . 
           This album was another critical turning point in Tyler's career as it peaked at number 13 on the Billboard Hot 100 and even won the award for Best Rap Album at the 62nd Grammy Awards. 
           For his sixth studio album, Call Me If You Get Lost, (album art here) Okonma placed billboards in major cities across the world containing a phone number that when called, played a recorded conversation between Okonma and his mother. 
