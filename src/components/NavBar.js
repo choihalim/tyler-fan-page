@@ -3,12 +3,12 @@ import { NavLink } from 'react-router-dom';
 
 const linkStyles = {
   display: "inline-block",
-  width: "150px",
+  width: "200px",
   padding: "12px",
   margin: "0 6px 6px",
-  background: "blue",
+  background: "black",
   textDecoration: "none",
-  color: "white",
+  color: "orange",
 };
 
 function NavBar() {
@@ -18,7 +18,7 @@ function NavBar() {
         to="/"
         exact
         style={linkStyles}
-        activeStyle={{ background: "darkblue" }}
+        activeStyle={{ background: "brown" }}
       >
         Home
       </NavLink>
@@ -26,7 +26,7 @@ function NavBar() {
         to="/discography"
         exact
         style={linkStyles}
-        activeStyle={{ background: "darkblue" }}
+        activeStyle={{ background: "brown" }}
       >
         Discography
       </NavLink>
@@ -34,7 +34,7 @@ function NavBar() {
         to="/schedule"
         exact
         style={linkStyles}
-        activeStyle={{ background: "darkblue" }}
+        activeStyle={{ background: "brown" }}
       >
         Tour Schedule
       </NavLink>
