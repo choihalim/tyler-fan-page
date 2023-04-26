@@ -38,6 +38,15 @@ function NavBar() {
       >
         Tour Schedule
       </NavLink>
+
+      <NavLink
+        to="/favorites" className='nav-buttons'
+        exact
+        style={linkStyles}
+        activeStyle={{ background: "brown" }}
+      >
+        Favorites
+      </NavLink>
     </>
   );
 }
