@@ -1,23 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Figure from 'react-bootstrap/Figure'
 
-function AlbumCard({ album, thumbnail, year, description, songs }) {
+function AlbumCard({ album, thumbnail, year, id, displaySongs }) {
+
   return (
     <div>
       <Figure>
         <Figure.Image
+          className="album-image"
           width={171}
           height={180}
           alt="171x180"
           src={thumbnail}
+          onClick={() => displaySongs(id)}
         />
         <Figure.Caption>
-          <h2>{album}</h2>
-          <h3>{year}</h3>
-          <p>{description}</p>
-          <ul>
-            {songs.map((song, index) => <li key={index}>{song}</li>)}
-          </ul>
+          <h2>{album} ({year})</h2>
+          {/* <p>{description}</p> */}
         </Figure.Caption>
 
       </Figure>
