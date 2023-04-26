@@ -34,6 +34,12 @@ code {
 
 .concert-card {
   border-style: solid;
-  margin: auto;
+  margin: 5px;
   width: fit-content;
+}
+
+.concerts-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
 }
