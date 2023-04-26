@@ -5,7 +5,8 @@ function AlbumInfo({ albumSongs }) {
     return (
         <>
             <ul>
-                {albumSongs.map((song, index) => <li key={index}>{song}</li>)}
+                {albumSongs.map((song, index) => <li key={index}>{song} <button>♥</button></li>)}
+                
             </ul>
         </>
     );
