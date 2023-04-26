@@ -4,6 +4,7 @@ import ConcertCard from "./ConcertCard"
 function TourSchedule() {
   const concertsUrl = 'http://localhost:6001/concerts';
   const [concerts, setConcerts] = useState([]);
+  const [search, setSearch] = useState("");
 
   useEffect(fetchConcerts, []);
 
@@ -13,7 +14,16 @@ function TourSchedule() {
       .then(setConcerts)
   }
 
-  const concertList = concerts.map(concert =>
+  function searchConcerts(e) {
+    setSearch(e.target.value);
+  }
+
+  const filteredConcerts = concerts.filter(concert =>
+    concert.location.toLowerCase().includes(search.toLowerCase()) ||
+    concert.venue.toLowerCase().includes(search.toLowerCase())
+  )
+
+  const concertList = filteredConcerts.map(concert =>
     <ConcertCard
       key={concert.id}
       location={concert.location}
@@ -24,7 +34,13 @@ function TourSchedule() {
   return (
     <>
       <br />
-      <input type='text' placeholder='Search for a venue...'></input>
+      <input
+        type='text'
+        placeholder='Search for a place...'
+        value={search}
+        onChange={searchConcerts}
+      >
+      </input>
       {concertList}
     </>
   );
