@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-function AlbumInfo({ albumSongs }) {
+function AlbumInfo({ albumSongs, /*heartSong*/ }) {
     console.log(albumSongs);
     
     const [favorite, setFavorite] = useState (true)

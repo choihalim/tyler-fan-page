@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Figure from 'react-bootstrap/Figure'
 
-function AlbumCard({ album, thumbnail, year, id, displaySongs }) {
+function AlbumCard({ album, thumbnail, year, id, displaySongs}) {
 
   return (
     <div>
