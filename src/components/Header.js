@@ -7,7 +7,7 @@ function Header() {
 
     return (
         <div>
-            <img src="https://www.theaudiodb.com/images/media/artist/banner/ruxxst1500733634.jpg" alt='Tyler Banner' /> <br />
+            <img className='banner-img' src="https://pbs.twimg.com/media/EVM9MCMUwAAcxla.jpg:large" alt='Tyler Banner' /> <br />
 
             <NavBar />
 
