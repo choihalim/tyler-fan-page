@@ -11,6 +11,16 @@ function Discography() {
   const [albumSongs, setAlbumSongs] = useState([])
   const [currentAlbum, setCurrentAlbum] = useState(10);
 
+
+//Sarah working on likes stuff IGNORE
+  // const [likedSong, setLikedSong] = useState([])
+
+  // function heartSong(){
+  //   console.log("The button works")
+  //  }
+
+
+
   function displaySongs(id) {
     setCurrentAlbum(id);
   }
@@ -45,6 +55,7 @@ function Discography() {
       // description={album.strDescriptionEN}
       id={index}
       displaySongs={displaySongs}
+      
     />
   )
 
@@ -57,6 +68,7 @@ function Discography() {
         <AlbumInfo
           // albumDescription={albums[currentAlbum].strDescriptionEN !== undefined ? albums[currentAlbum].strDescriptionEN : null }
           albumSongs={albumSongList[currentAlbum] !== undefined ? albumSongList[currentAlbum] : []}
+          // heartSong = {heartSong}
         />
       </div>
     </div>
