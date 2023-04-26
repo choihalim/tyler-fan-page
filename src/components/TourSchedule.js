@@ -41,6 +41,7 @@ function TourSchedule() {
         onChange={searchConcerts}
       >
       </input>
+      <br /><br />
       {concertList}
     </>
   );

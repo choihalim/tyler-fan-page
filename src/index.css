@@ -31,3 +31,9 @@ code {
 .album-info-container ul {
   list-style-type: none;
 }
+
+.concert-card {
+  border-style: solid;
+  margin: auto;
+  width: fit-content;
+}
