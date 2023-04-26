@@ -29,7 +29,7 @@ function App() {
         <Header />
       </header>
       <div className={`App ${theme}`}>
-        <button onClick={toggleTheme}>{theme === 'light' ? "Dark Mode" : "Light Mode"}</button>
+        <button onClick={toggleTheme}>{theme === 'light' ? "Dark Mode" : "Creative Mode"}</button>
       </div>
       <PageContainer />
     </div>
