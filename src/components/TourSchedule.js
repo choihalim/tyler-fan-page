@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ConcertCard from "./ConcertCard"
+import '../TourSchedule.css';
 
 function TourSchedule() {
   const concertsUrl = 'http://localhost:6001/concerts';
@@ -33,16 +34,26 @@ function TourSchedule() {
 
   return (
     <>
-      <br />
-      <input
-        type='text'
-        placeholder='Search for a place...'
-        value={search}
-        onChange={searchConcerts}
-      >
-      </input>
+      <div className='search-bar'>
+        <br />
+        <label>
+          <input type="text" required
+            value={search}
+            onChange={searchConcerts} />
+          <ul className='search'>
+            <li s>s</li>
+            <li e>e</li>
+            <li a>a</li>
+            <li r>r</li>
+            <li c>c</li>
+            <li h>h</li>
+          </ul>
+        </label>
+      </div>
       <br /><br />
-      {concertList}
+      <div className='concerts-container'>
+        {concertList}
+      </div>
     </>
   );
 }
