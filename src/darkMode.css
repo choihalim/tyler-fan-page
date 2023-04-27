@@ -25,7 +25,7 @@
     display: block;
     height: 20px;
     width: 44px;
-    background: #303030;
+    background: #cfae36;
     border-radius: 100px;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -39,7 +39,7 @@
     width: 26px;
     height: 26px;
     border-radius: 100px;
-    background: black;
+    background: #f5c414;
     box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.05);
     content: '';
     transition: all 0.3s ease;
@@ -50,12 +50,12 @@
 }
 
 .cbx:checked~label {
-    background: #d4b02c;
+    background: #303030;
 }
 
 .cbx:checked~label:after {
     left: 20px;
-    background: #f5c414;
+    background: black;
 }
 
 .cbx:disabled~label {
