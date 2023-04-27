@@ -3,7 +3,7 @@ import { Switch, Route } from 'react-router-dom';
 import Home from './Home'
 import Discography from './Discography'
 import TourSchedule from "./TourSchedule"
-import FavoriteList from './FavoriteList';
+import Create from './Create';
 
 function PageContainer() {
   return (
@@ -16,7 +16,7 @@ function PageContainer() {
           <TourSchedule />
         </Route>
         <Route path="/create">
-          <FavoriteList />
+          <Create />
         </Route>
         <Route path="/">
           <Home />
