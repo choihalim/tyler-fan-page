@@ -4,6 +4,12 @@
     font-family: Chalkduster, fantasyl
 }
 
+textarea{
+    transform: skew(-3deg, 1deg);
+    box-shadow: 3px 1px 0px 2px, 0px -1px 0px 2px rgba(0, 0, 0, 0.62);
+    float: left;
+}
+
 .float-child {
     width: 50%;
     float: right;
