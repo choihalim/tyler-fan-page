@@ -5,17 +5,13 @@ import PageContainer from "./PageContainer"
 import '../darkMode.css';
 
 
-
 function App() {
-
   
-
   return (
     <div className="App">
       <header className="App-header">
         <Header />
       </header>
-      
       <PageContainer />
     </div>
   );

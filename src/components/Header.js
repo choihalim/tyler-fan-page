@@ -6,7 +6,6 @@ import DarkMode from './DarkMode';
 
 function Header() {
     
-
     return (
         <div>
             <DarkMode />
