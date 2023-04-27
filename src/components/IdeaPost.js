@@ -1,9 +1,10 @@
-function IdeaPost({idea}){
-    const {username, userIdea} = idea
+function IdeaPost({ idea }) {
+    const { username, userIdea } = idea
     return (
-        <div>
-            <p>{username}</p>
+        <div className="float-child">
+            
             <p>{userIdea}</p>
+            <p>- {username}</p>
         </div>
     )
 }
