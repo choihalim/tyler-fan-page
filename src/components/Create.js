@@ -1,4 +1,6 @@
+
 import React, {useState, useEffect} from "react";
+import "../create.css";
 
 const ideaUrl = "http://localhost:6001/ideas" 
 
@@ -38,12 +40,16 @@ function Create(){
         .then(newIdeaData => [...formData, newIdeaData])
     }
 
-    
+
     return (
         <div>
             <h1>Create with Tyler!</h1>
             <h3>Tyler is a big fan of all of you and wants to hear what ideas you want to see from him. </h3>
-            <form onSubmit = {event => submitForm(event, newIdea)}>
+
+            <form 
+              onSubmit = {event => submitForm(event, newIdea)}
+              className="create-form"
+              >
                     <br></br>
                     <input 
                         onChange = {changeUserName}
@@ -67,7 +73,6 @@ function Create(){
                     </input>
 
                     <button type = "submit">CREATE!</button>
-                    
             </form>
         </div>
     )
