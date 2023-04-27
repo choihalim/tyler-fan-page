@@ -13,6 +13,7 @@ import BillNye from './HomeComponents/BillNye';
 import SixthAlbum from './HomeComponents/SixthAlbum';
 import SeventhAlbum from './HomeComponents/SeventhAlbum';
 import ArtistOutro from './HomeComponents/ArtistOutro';
+
 import HomeNavBar from './HomeComponents/HomeNavBar';
 
 function Home() {
@@ -21,6 +22,7 @@ function Home() {
       <div className='artist-name'>
         <h1>
           Tyler the Creator
+
         </h1>
       </div>
       <HomeNavBar />
@@ -67,6 +69,7 @@ function Home() {
         </Route>
       </Switch>
       <br /><br /><br /><br /><br />
+
     </div>
   );
 }

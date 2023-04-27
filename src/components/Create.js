@@ -15,13 +15,15 @@ function Create(){
         .then(setFormData)
         }, [])
     
-        const renderedIdeas = formData.map(idea => 
-            <IdeaPost 
-                key = {idea.id}
-                idea = {idea}
-            />
-            )
-    console.log(formData)
+
+    const renderedIdeas = formData.map(idea => 
+        <IdeaPost 
+            key = {idea.id}
+            idea = {idea}
+        />
+        )
+
+    
     function changeUserName(event){
         setUserName(event.target.value)
     }
@@ -45,11 +47,13 @@ function Create(){
         })
         .then(r => r.json())
         .then(newIdeaData => setFormData([...formData, newIdeaData]))
+        setIdea("")
+        setUserName("")
     }
 
 
     return (
-        <div>
+        <div >
             <h1>Create with Tyler!</h1>
             <h3>Tyler is a big fan of all of you and wants to hear what ideas you want to see from him. </h3>
 
@@ -79,10 +83,10 @@ function Create(){
                         placeholder = "Your idea!">
                     </input>
 
-                    <button type = "submit">CREATE!</button>
-
-                    {renderedIdeas}
+                    <button type = "submit">CREATE!</button>    
             </form>
+            
+            {renderedIdeas}
         </div>
     )
 }

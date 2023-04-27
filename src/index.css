@@ -77,10 +77,11 @@ code {
 }
 
 .artist-early-years {
+  width: 1500px;
   border-style: groove;
   border-color: goldenrod;
   margin: 25px;
-  width: fit-content;
+  /* width: fit-content; */
 }
 
 .first-album {
@@ -160,6 +161,21 @@ code {
   width: fit-content;
 }
 
+
+.home-div {
+  border-style: solid;
+  border-color: black;
+  margin: 25px;
+  width: fit-content;
+}
+
+.early-years-image {
+  border-style: solid;
+  border-color: black;
+  margin: 25px;
+  width: fit-content;
+}
+
 .dark {
   background-color: #141411;
   color: #f5c414;
@@ -169,3 +185,4 @@ code {
 background-color: #f5c414;
 color: black;
 }
+
