@@ -1,4 +1,5 @@
 import React from 'react';
+import YoutubeEmbed from '../YoutubeEmbed';
 
 function FirstAlbum () {
     return (
@@ -10,6 +11,7 @@ function FirstAlbum () {
                 It was a well received shit show with criticism ranging from "Best mixtape of the Year" to "Obnoxious and revolting but hypnotic, its something that you can't stop listening to".
                 (album art here)
             </h3>
+            <YoutubeEmbed embedID='heGPdwJGo08'/>
         </div>
 
     );
