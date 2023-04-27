@@ -22,7 +22,6 @@ function ArtistEarlyYears () {
             src = {earlyYearsImageUrl} 
             alt =""
             style={{width:800,height:400}}
-
             />
         </div>
     );
