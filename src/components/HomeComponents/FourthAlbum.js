@@ -1,4 +1,5 @@
 import React from 'react';
+import YoutubeEmbed from '../YoutubeEmbed';
 
 function FourthAlbum () {
     return (
@@ -8,6 +9,7 @@ function FourthAlbum () {
                 The reason for the ban was because of his lyrics in his earlier album Bastard from back in 2009 (that was totally understandable).
                 (album art here)
             </h3>
+            <YoutubeEmbed embedID='ibL4oggk6tw'/>
         </div>
     );
 }
