@@ -43,8 +43,10 @@ function Create() {
             },
             body: JSON.stringify(newIdea)
         })
-            .then(r => r.json())
-            .then(newIdeaData => setFormData([newIdeaData, ...formData]))
+        .then(r => r.json())
+        .then(newIdeaData => setFormData([...formData, newIdeaData]))
+        setIdea("")
+        setUserName("")
     }
 
     return (

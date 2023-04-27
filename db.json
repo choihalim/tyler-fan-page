@@ -1,362 +1,373 @@
 {
-    "albums": [
-        {
-            "id": 1,
-            "albumName": "Bastard",
-            "albumTracks": [
-                "Bastard",
-                "Seven",
-                "Odd Toddlers (feat. Casey Veggies)",
-                "French! (feat. Hodgy",
-                "Blow",
-                "Pigs Fly (feat. Domo Genesis)",
-                "Parade",
-                "Slow It Down (feat. Hodgy)",
-                "AssMilk (feat. Earl Sweatshirt)",
-                "VCR / Wheels",
-                "Session (feat. ​brandUn DeShay, Hodgy & Mike G)",
-                "Sarah",
-                "Jack and the Beanstalk",
-                "Tina (feat. Jasper Dolphin & Travis Bennett)",
-                "Inglorious"
-            ]
-        },
-        {
-            "id": 2,
-            "albumName": "Goblin",
-            "albumTracks": [
-                "Goblin",
-                "Yonkers",
-                "Radicals",
-                "She",
-                "Transylvania",
-                "Nightmare",
-                "Tron Cat",
-                "Her",
-                "Sandwitches",
-                "Fish",
-                "Analog",
-                "B.S.D",
-                "Window",
-                "AU79",
-                "Golden",
-                "Burger",
-                "Untitled 63",
-                "Steak Sauce"
-            ]
-        },
-        {
-            "id": 3,
-            "albumName": "Wolf",
-            "albumTracks": [
-                "WOLF",
-                "Jamba (feat. Hodgy)",
-                "Cowboy",
-                "Awkward",
-                "Domo23",
-                "Awkward",
-                "Domo23",
-                "Answer",
-                "Slater (feat. Frank Ocean)",
-                "48",
-                "Colossus",
-                "PartyIsntOver/Campfire/Bimmer(feat. Frank Ocean & Laetitia Sadier)",
-                "IFHY (feat. Pharrell)",
-                "Pigs",
-                "Parking Lot (feat. Casey Veggies & Mike G)",
-                "Rusty (feat. DomoGenesis & Earl Sweatshirt)",
-                "Trashwang (feat. Jasper Dolphin, L-Boy, Lee Spielman, Left Brain, Lucas Vercetti, Na'kel Smith & Travis Bennett)",
-                "Treehome95 (feat. Coco O. & Erykah Badu)",
-                "Tamale",
-                "Lone"
-            ]
-        },
-        {
-            "id": 4,
-            "albumName": "Cherry Bomb",
-            "albumTracks": [
-                "DEATHCAMP (feat. Cole Alexander)",
-                "BUFFALO (feat. Shane Powers)",
-                "PILOT (feat. Syd)",
-                "RUN (feat. ScHoolboy Q & Toro y Moi)",
-                "FIND YOUR WINGS (feat. Kali Uchis, Roy Ayers & Syd)",
-                "CHERRY BOMB",
-                "BLOW MY LOAD (feat. Austin Anderson, DāM FunK, Syd & Wanyá Morris)",
-                "2SEATER (feat. Aaron Shaw, Austin Anderson & Samantha Nelson)",
-                "THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (Remix) (feat. ScHoolboy Q)",
-                "FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Kali Uchis, Syd & Toro y Moi)",
-                "SMUCKERS (feat. Kanye West & Lil Wayne)",
-                "KEEP DA O'S (feat. Coco O. & Pharrell Williams)",
-                "OKAGA, CA (feat. Alice Smith, Clementine Creevy & Leon Ware) ",
-                "YELLOW"
-            ]
-        },
-        {
-            "id": 5,
-            "albumName": "Flower Boy",
-            "albumTracks": [
-                "Foreword (feat. Rex Orange County)",
-                "Where This Flower Blooms (feat. Frank Ocean)",
-                "Sometimes...",
-                "See You Again (feat. Kali Uchis)",
-                "Who Dat Boy (feat. A$AP Rocky)",
-                "Pothole (feat. Jaden)",
-                "Garden Shed (feat. Estelle)",
-                "Boredom (feat. Anna of the North & Rex Orange County)",
-                "I Ain't Got Time!",
-                "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
-                "Droppin' Seeds (feat. Lil Wayne)",
-                "November",
-                "Glitter",
-                "Enjoy Right Now, Today"
-            ]
-        },
-        {
-            "id": 6,
-            "albumName": "IGOR",
-            "albumTracks": [
-                "IGOR'S THEME",
-                "EARFQUAKE",
-                "I THINK",
-                "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
-                "RUNNING OUT OF TIME",
-                "NEW MAGIC WAND",
-                "A BOY IS A GUN*",
-                "PUPPET",
-                "WHAT'S GOOD",
-                "GONE, GONE / THANK YOU",
-                "I DON'T LOVE YOU ANYMORE ",
-                "ARE WE STILL FRIENDS?"
-            ]
-        },
-        {
-            "id": 7,
-            "albumName": "CALL ME IF YOU GET LOST",
-            "albumTracks": [
-                "SIR BAUDELAIRE (feat. DJ Drama)",
-                "CORSO",
-                "LEMONHEAD (feat. 42 Dugg)",
-                "WUSYANAME (feat. Ty Dolla $ign & YoungBoy Never Broke Again)",
-                "LUMBERJACK",
-                "HOT WIND BLOWS (feat. Lil Wayne)",
-                "MASSA",
-                "RUNITUP (feat. Teezo Touchdown)",
-                "MANIFESTO (feat. Domo Genesis)",
-                "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
-                "MOMMA TALK",
-                "RISE! (feat. DAISY WORLD)",
-                "BLESSED",
-                "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
-                "WILSHIRE",
-                "SAFARI"
-            ]
-        }
-    ],
-    "concerts": [
-        {
-            "id": 1,
-            "location": "Minneapolis, MN",
-            "venue": "The Armory ",
-            "date": "September 2, 2023"
-        },
-        {
-            "id": 2,
-            "location": "Chicago, IL",
-            "venue": "Credit Union 1 Arena at UIC",
-            "date": "September 4, 2023"
-        },
-        {
-            "id": 3,
-            "location": "Toronto, ONT",
-            "venue": "Scotiabank Arena",
-            "date": "September 6, 2023"
-        },
-        {
-            "id": 4,
-            "location": "Detroit, MI",
-            "venue": "Masonic Temple Theatre",
-            "date": "September 7, 2023"
-        },
-        {
-            "id": 5,
-            "location": "Boston, MA",
-            "venue": "Agganis Arena",
-            "date": "September 10, 2023"
-        },
-        {
-            "id": 6,
-            "location": "Laval, QC",
-            "venue": "Place Bell",
-            "date": "September 11, 2023"
-        },
-        {
-            "id": 7,
-            "location": "New York, NY",
-            "venue": "Madison Square Garden",
-            "date": "September 12, 2023"
-        },
-        {
-            "id": 8,
-            "location": "London, UK",
-            "venue": "O2 Brixton",
-            "date": "September 16, 2023"
-        },
-        {
-            "id": 9,
-            "location": "London, UK",
-            "venue": "O2 Brixton",
-            "date": "September 17, 2023"
-        },
-        {
-            "id": 10,
-            "location": "London, UK",
-            "venue": "O2 Brixton",
-            "date": "September 18, 2023"
-        },
-        {
-            "id": 11,
-            "location": "Columbia, MD",
-            "venue": "Merriweather Post Pavilion",
-            "date": "September 21, 2023"
-        },
-        {
-            "id": 12,
-            "location": "Columbus, OH",
-            "venue": "EXPRESS LIVE! Outdoor",
-            "date": "September 22, 2023"
-        },
-        {
-            "id": 13,
-            "location": "Pittsburgh, PA",
-            "venue": "Stage AE Outdoors",
-            "date": "September 24, 2023"
-        },
-        {
-            "id": 14,
-            "location": "Philadelphia, PA",
-            "venue": "Skyline Stage at the Mann",
-            "date": "September 25, 2023"
-        },
-        {
-            "id": 15,
-            "location": "Orlando, FL",
-            "venue": "Addition Financial Arena",
-            "date": "September 27, 2023"
-        },
-        {
-            "id": 16,
-            "location": "Tampa, FL",
-            "venue": "Yuengling Center",
-            "date": "September 28, 2023"
-        },
-        {
-            "id": 17,
-            "location": "Miami, FL",
-            "venue": "AmericanAirlines Arena",
-            "date": "September 29, 2023"
-        },
-        {
-            "id": 18,
-            "location": "Greensboro, NC",
-            "venue": "Greensboro Colisum Special Events Center",
-            "date": "October 1, 2023"
-        },
-        {
-            "id": 19,
-            "location": "Atlanta, GA",
-            "venue": "State Farm Arena",
-            "date": "October 3, 2023"
-        },
-        {
-            "id": 20,
-            "location": "St. Louis, MO",
-            "venue": "Chaifetz Arena",
-            "date": "October 4, 2023"
-        },
-        {
-            "id": 21,
-            "location": "Kansas City, MO",
-            "venue": "Silverstein Eye Centers Arena",
-            "date": "October 5, 2023"
-        },
-        {
-            "id": 22,
-            "location": "Morrison, CO",
-            "venue": "Red Rocks Amphitheatre",
-            "date": "October 7, 2023"
-        },
-        {
-            "id": 23,
-            "location": "Salt Lake City, UT",
-            "venue": "Great Saltair",
-            "date": "October 8, 2023"
-        },
-        {
-            "id": 24,
-            "location": "San Francisco, CA",
-            "venue": "Bill Graham Civic Auditorium",
-            "date": "October 10, 2023"
-        },
-        {
-            "id": 25,
-            "location": "Fresno, CA",
-            "venue": "Selland Arena",
-            "date": "October 12, 2023"
-        },
-        {
-            "id": 26,
-            "location": "Portland, OR",
-            "venue": "Veterans Memorial Coliseum",
-            "date": "October 14, 2023"
-        },
-        {
-            "id": 27,
-            "location": "Vancouver, BC",
-            "venue": "Pacific Coliseum",
-            "date": "October 15, 2023"
-        },
-        {
-            "id": 28,
-            "location": "Reno, NV",
-            "venue": "Reno Events Center",
-            "date": "October 17, 2023"
-        },
-        {
-            "id": 29,
-            "location": "San Diego, CA",
-            "venue": "Pechanga Arena",
-            "date": "October 19, 2023"
-        },
-        {
-            "id": 30,
-            "location": "Glendale, AZ",
-            "venue": "Gila River Arena",
-            "date": "October, 20, 2023"
-        },
-        {
-            "id": 31,
-            "location": "Austin, TX",
-            "venue": "Frank Erwin Center",
-            "date": "October 22, 2023"
-        },
-        {
-            "id": 32,
-            "location": "Dallas, TX",
-            "venue": "Theatre at Grand Prairie",
-            "date": "October 23, 2023"
-        },
-        {
-            "id": 33,
-            "location": "Houston, TX",
-            "venue": "NRG Stadium",
-            "date": "October 26, 2023"
-        }
-    ],
-    "ideas": [
-        {
-            "id": 1,
-            "username": "Sarah",
-            "userIdea": "Tyler should switch it up and make zebra print his thing, neon colors only."
-        }
-    ]
+  "albums": [
+    {
+      "id": 1,
+      "albumName": "Bastard",
+      "albumTracks": [
+        "Bastard",
+        "Seven",
+        "Odd Toddlers (feat. Casey Veggies)",
+        "French! (feat. Hodgy",
+        "Blow",
+        "Pigs Fly (feat. Domo Genesis)",
+        "Parade",
+        "Slow It Down (feat. Hodgy)",
+        "AssMilk (feat. Earl Sweatshirt)",
+        "VCR / Wheels",
+        "Session (feat. ​brandUn DeShay, Hodgy & Mike G)",
+        "Sarah",
+        "Jack and the Beanstalk",
+        "Tina (feat. Jasper Dolphin & Travis Bennett)",
+        "Inglorious"
+      ]
+    },
+    {
+      "id": 2,
+      "albumName": "Goblin",
+      "albumTracks": [
+        "Goblin",
+        "Yonkers",
+        "Radicals",
+        "She",
+        "Transylvania",
+        "Nightmare",
+        "Tron Cat",
+        "Her",
+        "Sandwitches",
+        "Fish",
+        "Analog",
+        "B.S.D",
+        "Window",
+        "AU79",
+        "Golden",
+        "Burger",
+        "Untitled 63",
+        "Steak Sauce"
+      ]
+    },
+    {
+      "id": 3,
+      "albumName": "Wolf",
+      "albumTracks": [
+        "WOLF",
+        "Jamba (feat. Hodgy)",
+        "Cowboy",
+        "Awkward",
+        "Domo23",
+        "Awkward",
+        "Domo23",
+        "Answer",
+        "Slater (feat. Frank Ocean)",
+        "48",
+        "Colossus",
+        "PartyIsntOver/Campfire/Bimmer(feat. Frank Ocean & Laetitia Sadier)",
+        "IFHY (feat. Pharrell)",
+        "Pigs",
+        "Parking Lot (feat. Casey Veggies & Mike G)",
+        "Rusty (feat. DomoGenesis & Earl Sweatshirt)",
+        "Trashwang (feat. Jasper Dolphin, L-Boy, Lee Spielman, Left Brain, Lucas Vercetti, Na'kel Smith & Travis Bennett)",
+        "Treehome95 (feat. Coco O. & Erykah Badu)",
+        "Tamale",
+        "Lone"
+      ]
+    },
+    {
+      "id": 4,
+      "albumName": "Cherry Bomb",
+      "albumTracks": [
+        "DEATHCAMP (feat. Cole Alexander)",
+        "BUFFALO (feat. Shane Powers)",
+        "PILOT (feat. Syd)",
+        "RUN (feat. ScHoolboy Q & Toro y Moi)",
+        "FIND YOUR WINGS (feat. Kali Uchis, Roy Ayers & Syd)",
+        "CHERRY BOMB",
+        "BLOW MY LOAD (feat. Austin Anderson, DāM FunK, Syd & Wanyá Morris)",
+        "2SEATER (feat. Aaron Shaw, Austin Anderson & Samantha Nelson)",
+        "THE BROWN STAINS OF DARKEESE LATIFAH PART 6-12 (Remix) (feat. ScHoolboy Q)",
+        "FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Kali Uchis, Syd & Toro y Moi)",
+        "SMUCKERS (feat. Kanye West & Lil Wayne)",
+        "KEEP DA O'S (feat. Coco O. & Pharrell Williams)",
+        "OKAGA, CA (feat. Alice Smith, Clementine Creevy & Leon Ware) ",
+        "YELLOW"
+      ]
+    },
+    {
+      "id": 5,
+      "albumName": "Flower Boy",
+      "albumTracks": [
+        "Foreword (feat. Rex Orange County)",
+        "Where This Flower Blooms (feat. Frank Ocean)",
+        "Sometimes...",
+        "See You Again (feat. Kali Uchis)",
+        "Who Dat Boy (feat. A$AP Rocky)",
+        "Pothole (feat. Jaden)",
+        "Garden Shed (feat. Estelle)",
+        "Boredom (feat. Anna of the North & Rex Orange County)",
+        "I Ain't Got Time!",
+        "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+        "Droppin' Seeds (feat. Lil Wayne)",
+        "November",
+        "Glitter",
+        "Enjoy Right Now, Today"
+      ]
+    },
+    {
+      "id": 6,
+      "albumName": "IGOR",
+      "albumTracks": [
+        "IGOR'S THEME",
+        "EARFQUAKE",
+        "I THINK",
+        "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING",
+        "RUNNING OUT OF TIME",
+        "NEW MAGIC WAND",
+        "A BOY IS A GUN*",
+        "PUPPET",
+        "WHAT'S GOOD",
+        "GONE, GONE / THANK YOU",
+        "I DON'T LOVE YOU ANYMORE ",
+        "ARE WE STILL FRIENDS?"
+      ]
+    },
+    {
+      "id": 7,
+      "albumName": "CALL ME IF YOU GET LOST",
+      "albumTracks": [
+        "SIR BAUDELAIRE (feat. DJ Drama)",
+        "CORSO",
+        "LEMONHEAD (feat. 42 Dugg)",
+        "WUSYANAME (feat. Ty Dolla $ign & YoungBoy Never Broke Again)",
+        "LUMBERJACK",
+        "HOT WIND BLOWS (feat. Lil Wayne)",
+        "MASSA",
+        "RUNITUP (feat. Teezo Touchdown)",
+        "MANIFESTO (feat. Domo Genesis)",
+        "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
+        "MOMMA TALK",
+        "RISE! (feat. DAISY WORLD)",
+        "BLESSED",
+        "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+        "WILSHIRE",
+        "SAFARI"
+      ]
+    }
+  ],
+  "concerts": [
+    {
+      "id": 1,
+      "location": "Minneapolis, MN",
+      "venue": "The Armory ",
+      "date": "September 2, 2023"
+    },
+    {
+      "id": 2,
+      "location": "Chicago, IL",
+      "venue": "Credit Union 1 Arena at UIC",
+      "date": "September 4, 2023"
+    },
+    {
+      "id": 3,
+      "location": "Toronto, ONT",
+      "venue": "Scotiabank Arena",
+      "date": "September 6, 2023"
+    },
+    {
+      "id": 4,
+      "location": "Detroit, MI",
+      "venue": "Masonic Temple Theatre",
+      "date": "September 7, 2023"
+    },
+    {
+      "id": 5,
+      "location": "Boston, MA",
+      "venue": "Agganis Arena",
+      "date": "September 10, 2023"
+    },
+    {
+      "id": 6,
+      "location": "Laval, QC",
+      "venue": "Place Bell",
+      "date": "September 11, 2023"
+    },
+    {
+      "id": 7,
+      "location": "New York, NY",
+      "venue": "Madison Square Garden",
+      "date": "September 12, 2023"
+    },
+    {
+      "id": 8,
+      "location": "London, UK",
+      "venue": "O2 Brixton",
+      "date": "September 16, 2023"
+    },
+    {
+      "id": 9,
+      "location": "London, UK",
+      "venue": "O2 Brixton",
+      "date": "September 17, 2023"
+    },
+    {
+      "id": 10,
+      "location": "London, UK",
+      "venue": "O2 Brixton",
+      "date": "September 18, 2023"
+    },
+    {
+      "id": 11,
+      "location": "Columbia, MD",
+      "venue": "Merriweather Post Pavilion",
+      "date": "September 21, 2023"
+    },
+    {
+      "id": 12,
+      "location": "Columbus, OH",
+      "venue": "EXPRESS LIVE! Outdoor",
+      "date": "September 22, 2023"
+    },
+    {
+      "id": 13,
+      "location": "Pittsburgh, PA",
+      "venue": "Stage AE Outdoors",
+      "date": "September 24, 2023"
+    },
+    {
+      "id": 14,
+      "location": "Philadelphia, PA",
+      "venue": "Skyline Stage at the Mann",
+      "date": "September 25, 2023"
+    },
+    {
+      "id": 15,
+      "location": "Orlando, FL",
+      "venue": "Addition Financial Arena",
+      "date": "September 27, 2023"
+    },
+    {
+      "id": 16,
+      "location": "Tampa, FL",
+      "venue": "Yuengling Center",
+      "date": "September 28, 2023"
+    },
+    {
+      "id": 17,
+      "location": "Miami, FL",
+      "venue": "AmericanAirlines Arena",
+      "date": "September 29, 2023"
+    },
+    {
+      "id": 18,
+      "location": "Greensboro, NC",
+      "venue": "Greensboro Colisum Special Events Center",
+      "date": "October 1, 2023"
+    },
+    {
+      "id": 19,
+      "location": "Atlanta, GA",
+      "venue": "State Farm Arena",
+      "date": "October 3, 2023"
+    },
+    {
+      "id": 20,
+      "location": "St. Louis, MO",
+      "venue": "Chaifetz Arena",
+      "date": "October 4, 2023"
+    },
+    {
+      "id": 21,
+      "location": "Kansas City, MO",
+      "venue": "Silverstein Eye Centers Arena",
+      "date": "October 5, 2023"
+    },
+    {
+      "id": 22,
+      "location": "Morrison, CO",
+      "venue": "Red Rocks Amphitheatre",
+      "date": "October 7, 2023"
+    },
+    {
+      "id": 23,
+      "location": "Salt Lake City, UT",
+      "venue": "Great Saltair",
+      "date": "October 8, 2023"
+    },
+    {
+      "id": 24,
+      "location": "San Francisco, CA",
+      "venue": "Bill Graham Civic Auditorium",
+      "date": "October 10, 2023"
+    },
+    {
+      "id": 25,
+      "location": "Fresno, CA",
+      "venue": "Selland Arena",
+      "date": "October 12, 2023"
+    },
+    {
+      "id": 26,
+      "location": "Portland, OR",
+      "venue": "Veterans Memorial Coliseum",
+      "date": "October 14, 2023"
+    },
+    {
+      "id": 27,
+      "location": "Vancouver, BC",
+      "venue": "Pacific Coliseum",
+      "date": "October 15, 2023"
+    },
+    {
+      "id": 28,
+      "location": "Reno, NV",
+      "venue": "Reno Events Center",
+      "date": "October 17, 2023"
+    },
+    {
+      "id": 29,
+      "location": "San Diego, CA",
+      "venue": "Pechanga Arena",
+      "date": "October 19, 2023"
+    },
+    {
+      "id": 30,
+      "location": "Glendale, AZ",
+      "venue": "Gila River Arena",
+      "date": "October, 20, 2023"
+    },
+    {
+      "id": 31,
+      "location": "Austin, TX",
+      "venue": "Frank Erwin Center",
+      "date": "October 22, 2023"
+    },
+    {
+      "id": 32,
+      "location": "Dallas, TX",
+      "venue": "Theatre at Grand Prairie",
+      "date": "October 23, 2023"
+    },
+    {
+      "id": 33,
+      "location": "Houston, TX",
+      "venue": "NRG Stadium",
+      "date": "October 26, 2023"
+    }
+  ],
+  
+  "ideas": [
+    {
+      "id": 1,
+      "username": "Sarah",
+      "userIdea": "Tyler should switch it up and make zebra print his thing, neon colors only."
+    },
+    {
+      "username": "Halim",
+      "userIdea": "Tyler is perfect",
+      "id": 2
+    },
+    {
+      "username": "Andrew",
+      "userIdea": "This guy is a genius! ",
+      "id": 3
+    }
+  ]
 }

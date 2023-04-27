@@ -27,6 +27,10 @@ header {
   box-shadow: 3px 1px 0px 2px, 0px -1px 0px 2px rgba(0, 0, 0, 0.62);
 }
 
+.home-page{
+  height: 100vh;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -156,6 +160,21 @@ code {
   width: fit-content;
 }
 
+
+.home-div {
+  border-style: solid;
+  border-color: black;
+  margin: 25px;
+  width: fit-content;
+}
+
+.early-years-image {
+  border-style: solid;
+  border-color: black;
+  margin: 25px;
+  width: fit-content;
+}
+
 .dark {
   background-color: #141411;
   color: #f5c414;
@@ -165,3 +184,4 @@ code {
 background-color: #f5c414;
 color: black;
 }
+
