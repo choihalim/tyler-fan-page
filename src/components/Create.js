@@ -1,6 +1,8 @@
 import React from "react";
 
 function Create(){
+
+    
     return (
         <div>
             <h1>Create with Tyler!</h1>
@@ -11,7 +13,7 @@ function Create(){
                     <br></br>
                     <br></br>
                     <input type = "text" style = {{width: "400px", height: "200px", fontFamily: "sans-serif"}} placeholder="Your idea!"></input>
-            
+                    <button type="submit">CREATE!</button>
             </form>
        </div>
     )
