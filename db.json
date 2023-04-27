@@ -361,13 +361,18 @@
     },
     {
       "username": "Halim",
-      "userIdea": "Tyler is perfect",
+      "userIdea": "Tyler is perfect. Fight me.",
       "id": 2
     },
     {
       "username": "Andrew",
-      "userIdea": "This guy is a genius! ",
+      "userIdea": "He's whack, very cool and has interesting things to say.",
       "id": 3
+    },
+    {
+      "username": "Ryan",
+      "userIdea": "Transcendent, poignant, moving. This man crushes it every time I listen.",
+      "id": 4
     }
   ]
 }
