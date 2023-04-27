@@ -358,6 +358,14 @@
                     "date": "October 26, 2023"
                 }   
   
+            ],
+
+            "ideas": [
+       
+                {
+                    "id": 1,
+                    "username": "Sarah" ,
+                    "userIdea": "Tyler should switch it up and make zebra print his thing, neon colors only."
+                }
             ]
-    
 }
