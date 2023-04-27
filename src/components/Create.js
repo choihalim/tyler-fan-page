@@ -15,13 +15,15 @@ function Create(){
         .then(setFormData)
         }, [])
     
-        const renderedIdeas = formData.map(idea => 
-            <IdeaPost 
-                key = {idea.id}
-                idea = {idea}
-            />
-            )
-    console.log(formData)
+
+    const renderedIdeas = formData.map(idea => 
+        <IdeaPost 
+            key = {idea.id}
+            idea = {idea}
+        />
+        )
+
+    
     function changeUserName(event){
         setUserName(event.target.value)
     }
