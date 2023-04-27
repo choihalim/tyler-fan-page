@@ -1,5 +1,5 @@
-
 import React, {useState, useEffect} from "react";
+import IdeaPost from "./IdeaPost"
 import "../create.css";
 
 const ideaUrl = "http://localhost:6001/ideas" 
@@ -12,9 +12,16 @@ function Create(){
     useEffect(()=> {
         fetch (ideaUrl)
         .then(r=>r.json())
-        .then(setIdea)
+        .then(setFormData)
         }, [])
     
+        const renderedIdeas = formData.map(idea => 
+            <IdeaPost 
+                key = {idea.id}
+                idea = {idea}
+            />
+            )
+    console.log(formData)
     function changeUserName(event){
         setUserName(event.target.value)
     }
@@ -37,7 +44,7 @@ function Create(){
             body: JSON.stringify(newIdea)
         })
         .then(r => r.json())
-        .then(newIdeaData => [...formData, newIdeaData])
+        .then(newIdeaData => setFormData([...formData, newIdeaData]))
     }
 
 
@@ -47,9 +54,9 @@ function Create(){
             <h3>Tyler is a big fan of all of you and wants to hear what ideas you want to see from him. </h3>
 
             <form 
-              onSubmit = {event => submitForm(event, newIdea)}
-              className="create-form"
-              >
+                onSubmit = {event => submitForm(event, newIdea)}
+                className="create-form"
+            >
                     <br></br>
                     <input 
                         onChange = {changeUserName}
@@ -73,6 +80,8 @@ function Create(){
                     </input>
 
                     <button type = "submit">CREATE!</button>
+
+                    {renderedIdeas}
             </form>
         </div>
     )
