@@ -45,6 +45,8 @@ function Create(){
         })
         .then(r => r.json())
         .then(newIdeaData => setFormData([...formData, newIdeaData]))
+        setIdea("")
+        setUserName("")
     }
 
 
