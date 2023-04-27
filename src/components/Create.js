@@ -64,7 +64,7 @@ function Create() {
                     name="username"
                     type="text"
                     value={userName}
-                    style={{ width: "400px", fontFamily: "Chalkduster" }}
+                    style={{ width: "600px", fontFamily: "Chalkduster" }}
                     placeholder="Username">
                 </input>
 
@@ -76,7 +76,7 @@ function Create() {
                     name="userIdea"
                     type="text"
                     value={idea}
-                    style={{ width: "400px", height: "200px", fontFamily: "Chalkduster" }}
+                    style={{ width: "600px", height: "200px", fontFamily: "Chalkduster" }}
                     placeholder="Your idea!">
                 </input>
 
