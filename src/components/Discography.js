@@ -9,17 +9,7 @@ function Discography() {
 
   const [albums, setAlbums] = useState([])
   const [albumSongs, setAlbumSongs] = useState([])
-  const [currentAlbum, setCurrentAlbum] = useState(10);
-
-
-//Sarah working on likes stuff IGNORE
-  // const [likedSong, setLikedSong] = useState([])
-
-  // function heartSong(){
-  //   console.log("The button works")
-  //  }
-
-
+  const [currentAlbum, setCurrentAlbum] = useState(null);
 
   function displaySongs(id) {
     setCurrentAlbum(id);
@@ -44,7 +34,6 @@ function Discography() {
   const albumSongList = albumSongs.map(song => {
     return song.albumTracks
   })
-  console.log(albums)
 
   const cardElements = albums.map((album, index) =>
     <AlbumCard
@@ -52,10 +41,8 @@ function Discography() {
       album={album.strAlbum}
       thumbnail={album.strAlbumThumb}
       year={album.intYearReleased}
-      // description={album.strDescriptionEN}
       id={index}
       displaySongs={displaySongs}
-      
     />
   )
 
@@ -66,9 +53,7 @@ function Discography() {
       </div>
       <div className='album-info-container'>
         <AlbumInfo
-          // albumDescription={albums[currentAlbum].strDescriptionEN !== undefined ? albums[currentAlbum].strDescriptionEN : null }
           albumSongs={albumSongList[currentAlbum] !== undefined ? albumSongList[currentAlbum] : []}
-          // heartSong = {heartSong}
         />
       </div>
     </div>
