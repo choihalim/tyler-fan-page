@@ -15,7 +15,7 @@ function PageContainer() {
         <Route path="/schedule">
           <TourSchedule />
         </Route>
-        <Route path="/favorites">
+        <Route path="/create">
           <FavoriteList />
         </Route>
         <Route path="/">

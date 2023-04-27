@@ -52,6 +52,7 @@ code {
   width: fit-content;
 }
 
+
 .concerts-container {
   display: flex;
   flex-flow: row wrap;
@@ -147,4 +148,14 @@ code {
   border-color: goldenrod;
   margin: 25px;
   width: fit-content;
+}
+
+.dark {
+  background-color: #141411;
+  color: #f5c414;
+}
+
+.light {
+background-color: #f5c414;
+color: black;
 }
