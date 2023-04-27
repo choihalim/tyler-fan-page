@@ -71,14 +71,14 @@ function Create() {
                 <br></br>
                 <br></br>
 
-                <input
+                <textarea
                     onChange={changeIdea}
                     name="userIdea"
                     type="text"
                     value={idea}
                     style={{ width: "400px", height: "200px", fontFamily: "Chalkduster" }}
                     placeholder="Your idea!">
-                </input>
+                </textarea>
 
                 <button type="submit">CREATE!</button>
             </form>
