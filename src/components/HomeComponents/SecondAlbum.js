@@ -1,4 +1,5 @@
 import React from 'react';
+import YoutubeEmbed from '../YoutubeEmbed';
 
 function SecondAlbum () {
     return (
@@ -9,8 +10,8 @@ function SecondAlbum () {
                 his debut studio album, Goblin, was released May 10, 2011 and was again a critically acclaimed hit called "the horrorcore album of the year" by most.
                 (album art here)
             </h3>
+            <YoutubeEmbed embedID='XNCX1xbxfRk'/>
         </div>
-
     );
 }
 export default SecondAlbum;
