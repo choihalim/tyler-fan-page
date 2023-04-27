@@ -2,7 +2,8 @@ import { NavLink } from 'react-router-dom';
 
 const linkStyles = {
     display: "inline-block",
-    width: "300px",
+    width: "200px",
+    height: "50px",
     padding: "12px",
     margin: "0 18px 6px",
     background: "black",
@@ -88,7 +89,7 @@ function HomeNavBar() {
                     exact
                     style={linkStyles}
                     activeStyle={{ background: "brown" }}
-                >Bill Nye The Science Guy
+                >Bill Nye
                 </NavLink>
             </div>
 
