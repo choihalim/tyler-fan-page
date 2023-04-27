@@ -357,6 +357,11 @@
       "id": 1,
       "username": "Sarah",
       "userIdea": "Tyler should switch it up and make zebra print his thing, neon colors only."
-    } 
+    },
+    {
+      "username": "Halim",
+      "userIdea": "Tyler is perfect",
+      "id": 2
+    }
   ]
 }
