@@ -16,7 +16,6 @@ function AlbumCard({ album, thumbnail, year, id, displaySongs}) {
         />
         <Figure.Caption>
           <h2>{album} ({year})</h2>
-          {/* <p>{description}</p> */}
         </Figure.Caption>
 
       </Figure>

@@ -12,6 +12,12 @@ header {
   height: 45vmin;
 }
 
+.dark-mode-button {
+  text-align: right;
+  width: 100%;
+  size: 0cap;
+}
+
 .banner-img {
   width: 800px;
 }
@@ -51,6 +57,7 @@ code {
   margin: 5px;
   width: fit-content;
 }
+
 
 .concerts-container {
   display: flex;
@@ -150,6 +157,7 @@ code {
   width: fit-content;
 }
 
+
 .home-div {
   border-style: solid;
   border-color: black;
@@ -162,4 +170,14 @@ code {
   border-color: black;
   margin: 25px;
   width: fit-content;
+
+.dark {
+  background-color: #141411;
+  color: #f5c414;
+}
+
+.light {
+background-color: #f5c414;
+color: black;
+
 }
