@@ -1,5 +1,7 @@
 import React from 'react';
 
+const earlyYearsImageUrl = 'https://i.redd.it/962iylmrszk51.png'
+
 function ArtistEarlyYears () {
     return (
         <div className = 'artist-early-years'>
@@ -16,6 +18,11 @@ function ArtistEarlyYears () {
                 At 14 years old he would finally be gifted his precious keyboard, which he then proceeded take to his room, lock the door, and spend the entire summer trying to teach himself to read, write and play music, unsuccessfully so. 
                 It would take him several years and many friends to finally be at a point where he could read and write music, this is where his first group Odd Future would come in.
             </h3>
+            <img 
+            src = {earlyYearsImageUrl} 
+            alt =""
+            
+            />
         </div>
     );
 }
