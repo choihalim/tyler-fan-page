@@ -152,9 +152,9 @@
                                         ]
                 }
             ],
-   
+
     "concerts": [
-       
+
                 {
                     "id": 1, 
                     "location": "Minneapolis, MN",
@@ -357,11 +357,11 @@
                     "venue": "NRG Stadium",
                     "date": "October 26, 2023"
                 }   
-  
+
             ],
 
-            "ideas": [
-       
+    "ideas": [
+
                 {
                     "id": 1,
                     "username": "Sarah" ,
