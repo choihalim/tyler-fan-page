@@ -12,18 +12,20 @@ import BillNye from './HomeComponents/BillNye';
 import SixthAlbum from './HomeComponents/SixthAlbum';
 import SeventhAlbum from './HomeComponents/SeventhAlbum';
 import ArtistOutro from './HomeComponents/ArtistOutro';
+import EarlyYearsImg from './HomeComponents/EarlyYearsImg';
 
 function Home() {
   return (
-    <div>
+    <div className = 'home-div'>
       <div className = 'artist-name'>
         <h1>
-        Tyler the Creator
+        Tyler the Creator Banner Here
         </h1>
       </div>
 
       <ArtistIntro />
       <ArtistEarlyYears />
+      <EarlyYearsImg />
       <FirstAlbum />
       <YonkersSingle />
       <SecondAlbum />
