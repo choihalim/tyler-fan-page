@@ -71,7 +71,7 @@ App
         - AlbumCard
         - AlbumInfo
     - TourSchedule
-        -ConcertCard
+        - ConcertCard
     - Create
         - IdeaPost
 #
