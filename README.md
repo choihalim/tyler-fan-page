@@ -42,13 +42,40 @@ db.json with Tyler the Creator track info
 COMPONENT HIERARCHY 
 
 App 
-    -Header
-        -NavBar
-    -PageContainer
-        -Home
-        -Discography
-            ~AlbumCard
-                ~SongCard (stretch goal) 
-        -TourSchedule (search bar)
-            ~TourCard
+    - Header
+        - DarkMode
+        - NavBar
+    - PageContainer
+        - Home
+            - HomeNavBar
+            - ArtistIntro
+            - ArtistEarlyYears
+            - FirstAlbum
+                - YoutubeEmbed
+            - YonkersSingle
+                - YoutubeEmbed
+            - SecondAlbum
+                - YoutubeEmbed
+            - LoiterSquad
+                - YoutubeEmbed
+            - ThirdAlbum
+                - YoutubeEmbed
+            - FourthAlbum
+                - YoutubeEmbed
+            - BillNye
+                - YoutubeEmbed
+            - FifthAlbum
+                - YoutubeEmbed
+            - SixthAlbum
+                - YoutubeEmbed
+            - SeventhAlbum
+                - YoutubeEmbed
+            - ArtistOutro
+        - Discography
+            - AlbumCard
+            - AlbumInfo
+        - TourSchedule
+            -ConcertCard
+        - Create
+            - IdeaPost
 
