@@ -22,16 +22,12 @@ Contributors: Sarah Baughman, Halim Choi, Andrew O’Brien, Ryan Rojas
 USER STORY
 
 As a user I can: 
-View basic information about Tyler the Creator
-Use the sidebar to navigate to a discography page and tour schedule page
-View the artist’s full discography sorted by album
-Search the simulated tour schedule by city and state to see when the artist will be visiting a nearby venue
-
-Stretch Goals
-Add favorite songs from the discography page to a favorites list 
-Search through songs on the discography page
-Provide links to individual tracks (sound or youtube link)
-Age restriction filter
+ - View basic information about Tyler the Creator on the Home Page
+ - Use the navigation bar to view the discography, tour schedule and create page
+ - View the artist’s full discography sorted by album, click each album cover to see each respective track list
+ - Search the simulated tour schedule by city, state or venue to see when the artist will be visiting nearby
+ - Submit a new idea for Tyler using a form, as well as view other users' ideas on the Create page
+ - Switch between light and dark mode using a switch at the top-right of the page
 
 API INFO
 Using an external API to fetch our album data (album title, release year, genre, album art) 
