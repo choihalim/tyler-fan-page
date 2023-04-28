@@ -39,7 +39,8 @@ function TourSchedule() {
         <label>
           <input type="text" required
             value={search}
-            onChange={searchConcerts} />
+            onChange={searchConcerts}
+            className = "tour-searchbar" />
           <ul className='search'>
             <li s>s</li>
             <li e>e</li>
